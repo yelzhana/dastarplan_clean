@@ -11,11 +11,9 @@ DastarPlan helps users plan their meals based on what they already have at home.
 > Bachelor's thesis project, Kazakh-British Technical University (2026). Supervisor: A. Myrzakanurov.
 > This repository contains the **Django backend**. The iOS client lives in [yelzhana/dastarplan](https://github.com/yelzhana/dastarplan).
 
-**Demo video:** [watch on YouTube]
-    https://youtube.com/shorts/_iC_jnuVxLA?feature=share
-    https://youtube.com/shorts/ypjwW0PsHJk?feature=share
-    https://youtu.be/EVKJm5PvHpE
-**Thesis summary:** https://github.com/yelzhana/dastarplan_clean/blob/main/DastarPlan%20—%20Technical%20Thesis%20Summary.pdf 
+**Demo videos:** [Short demo 1](https://youtube.com/shorts/_iC_jnuVxLA) · [Short demo 2](https://youtube.com/shorts/ypjwW0PsHJk) · [Full demo](https://youtu.be/EVKJm5PvHpE)
+
+**Thesis summary:** [PDF](DastarPlan%20—%20Technical%20Thesis%20Summary.pdf)
     
 
 ---
