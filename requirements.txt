@@ -1,0 +1,14 @@
+django
+psycopg2-binary
+djangorestframework
+requests
+django-filter
+django-cors-headers
+openai
+duckduckgo_search
+python-dotenv
+pillow-heif
+ddgs
+google-cloud-vision
+pillow-heif
+rapidfuzz
